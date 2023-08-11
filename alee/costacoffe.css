@@ -1,0 +1,303 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Tilt+Prism&display=swap');
+
+.mhd
+{
+    font-family: 'Lobster', cursive;
+  
+    color: rgb(136, 7, 7);
+    padding-left: 400px;
+    margin-top: 30px;
+}
+.sec1
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.shd
+{
+    color: black;
+    text-decoration: none;
+    padding-left: 50px;
+  
+}
+.shd:hover
+{
+    color: rgb(29, 77, 29);
+}
+.shd1
+{
+   
+   margin-right: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+   color: white;
+}
+.shd1:hover
+{
+    background-color:black;
+    color: brown;
+}
+.shd2
+{
+    margin-left: 50px;
+    border-radius: 15px;
+     margin-top: 40px;
+    
+}
+.shd2
+{
+   background-color: black;
+}
+.img1
+{
+    padding-left: 300px;
+    margin-top: 80px;
+  
+   
+}
+.subhd3
+{
+    margin-top: 150px;
+    color: brown;
+}
+.butt2
+{
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+}
+.sec3
+{
+    padding-left: 250px;
+    margin-top: 250px;
+    color: white;
+    font-family: 'Lugrasimo', cursive;
+    
+    
+}
+.categories
+{
+    text-decoration: none;
+    color: white;
+    padding-left: 300px; 
+    padding-top: 30px;
+     
+}
+.form1
+{
+    width:280px;
+    height:300px;
+    text-align: center;
+    color: rgb(11, 10, 10);
+    padding:40px;
+    background-color: rgb(254, 254, 254) ;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    margin-top: 200px;
+    margin-left: 200px;
+    border-radius: 20px;
+    opacity: 0.7;
+    
+ 
+}
+.form1 input{
+    outline: none;
+    border: none;
+    border-bottom:2px solid grey;
+}
+.hd4
+{
+   padding-left: 200px;
+   padding-top: 15px;
+   color: white;
+}
+.butt3
+{
+    text-decoration: none;
+    color: white;
+  
+   
+}
+.buttt3
+{
+    border-radius: 5px;
+    background-color: black;
+    margin-top: 10px;
+}
+.buttt3:hover
+{
+    background-color: white;
+}
+.butt3:hover
+{
+  color: rgb(100, 10, 10);
+  
+}
+.hd5
+{
+    text-decoration: none;
+    padding-left: 29px;
+    color: black;
+
+   
+ 
+}
+
+.hd5:hover
+{
+    color: brown;
+}
+.imge
+{
+    border-radius: 30px;
+    height: 600px;
+    margin-top: 50px;
+    width: 100%;
+        
+}
+.imgee
+{
+height:600px ;
+margin-top: 30px;
+width: 100%;
+border-radius: 30px;
+}
+
+.img1
+{
+    height: 500px;
+    width: 100%;
+}
+.sec5
+{
+    padding-left: 20px;
+    padding-top: 50px;
+    color: rgb(199, 190, 190);
+}
+.sec6
+{
+    margin-top: 60px;
+ 
+}
+.hding
+{
+    padding-left: 50px;
+}
+.hori
+{
+    background: rgb(111, 109, 109);
+    /* width: 1300px; */
+    padding: 1px;
+    height: 25px;
+ 
+}
+.sec8
+{
+    color: white;
+}
+.sec9
+{
+    color: white;
+}
+.sec10
+{
+    color: white;
+}
+.sec11
+{
+    color: white;
+}
+.sub1
+{
+    padding-left: 15px;
+}
+.sub2
+{
+    padding-left: 15px;
+}
+.sub3
+{
+    padding-left: 20px;
+}
+.sub4
+{
+    padding-left: 15px;
+}
+.hori2
+{
+  background: white;
+   /* width: 1800px; */
+   padding: 1px;
+   
+}
+.anns
+{
+    color: white;
+    /* padding-left: 600px; */
+    text-align: center;
+    padding-top: 15px;
+}
+.lee
+{
+    padding-top: 40px;
+    padding-left: 700px;
+}
+ @media(min-width:655px) and (max-width:755px) {
+    .lee{
+        padding-left: 320px;
+    }
+    .form1
+{
+    width:280px;
+    height:300px;
+    text-align: center;
+    color: rgb(11, 10, 10);
+    padding:40px;
+    background-color: rgb(254, 254, 254) ;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    border-radius: 20px;
+    opacity: 0.7;
+    position: fixed;
+ 
+}
+  .col-md-6  .anns{
+        padding-left: 10px;
+    }
+
+ }
+ .co1
+ {
+   width: 100%;
+ }
+ .backimg2
+ {
+   background-image: url(pexels-1.jpeg);
+   height: 600px;
+   margin-top:30px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+ }
+.imgee
+{
+height:600px ;
+margin-top: 30px;
+width: 100%;
+}
+
+.cath2
+{
+   background-color:rgb(44, 43, 43) ; 
+   margin-top: 40px;
+}
+.mnhd
+{
+  background-color: rgb(165, 162, 162) ;
+  height:100px ;
+  width: 100%;
+}
